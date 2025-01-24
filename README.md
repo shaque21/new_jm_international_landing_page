@@ -2,4 +2,4 @@
 Landing page
 Bootstrap 5 Landing Page
 
-[Demo][(https://shaque21.github.io/restaurantApp-landing-page.github.io/)](https://shaque21.github.io/jm_international_front.github.io/)
+[Demo][(https://shaque21.github.io/new_jm_international_landing_page/)
